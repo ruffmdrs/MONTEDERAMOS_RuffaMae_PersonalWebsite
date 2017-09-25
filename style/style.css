@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+    background-image: url("images/Cute.jpg");
+}
+
+#background {
+    margin: 0 auto;
+    width: 1680;
+    height: 637;
+}
+
+#nav-bar {
+    font size: 1.5rem;
+    width: 0px;
+    height: 30px;
+    margin: 0 auto;
+    position: relative;
+    right: 210px;
+    padding-left: -20px;
+    top: 20px;
+    font-family: "Adelle_Light", serif;
+}
+
+#nav-bar ul {
+    width: 1000px;
+    padding-bottom: 0px;
+}
+
+#nav-bar li {
+    display: inline;
+    margin-left: 100px;
+    color: black;
+}
+
+#nav-bar li a:hover {
+    background-color: black;
+    color: #645f;
+}
