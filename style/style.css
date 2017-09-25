@@ -1,13 +1,13 @@
 body {
     margin: 0;
     overflow-x: hidden;
-    background-image: url("images/Cute.jpg");
 }
 
 #background {
     margin: 0 auto;
     width: 1680;
     height: 637;
+    background-image: url("images/Cute.jpg");
 }
 
 #nav-bar {
