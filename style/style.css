@@ -11,7 +11,7 @@ body {
 }
 
 #nav-bar {
-    font size: 1.5rem;
+    font size: 3rem;
     width: 0px;
     height: 30px;
     margin: 0 auto;
@@ -25,15 +25,19 @@ body {
 #nav-bar ul {
     width: 1000px;
     padding-bottom: 0px;
+    text-decoration: none;
 }
 
 #nav-bar li {
     display: inline;
     margin-left: 100px;
+    text-decoration: none;
+}
+
+#nav-bar a:visited {
     color: black;
 }
 
-#nav-bar li a:hover {
-    background-color: black;
-    color: #645f;
+#nav-bar a:hover {
+    color: pink;
 }
