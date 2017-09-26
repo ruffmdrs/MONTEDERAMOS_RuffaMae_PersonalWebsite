@@ -3,7 +3,7 @@ body {
     overflow-x: hidden;
 }
 
-#background {
+#home {
     margin: 0 auto;
     width: 1680;
     height: 637;
@@ -48,7 +48,28 @@ div.black {
     height: 452px;
     width: 1111px;
     background-color: black;
-    opacity: .3;
+    opacity: .4;
     margin-left: 123px;
     margin-top: 137px;
+}
+
+#welcome {
+    font-size: 62px;
+    color: white;
+    margin-left: 420px;
+    padding-top: 82px;
+}
+
+#name {
+    font-size: 35px;
+    color: white;
+    margin-left: 349px;
+    padding-top: 19px;
+}
+
+#personal {
+    font-size: 30px;
+    color: white;
+    margin-left: 444px;
+    margin-bottom: 10px;
 }
