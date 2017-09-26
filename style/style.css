@@ -19,18 +19,20 @@ body {
     right: 210px;
     padding-left: -20px;
     top: 20px;
-    font-family: "Adelle_Light", serif;
+    font-family: "calibri";
 }
 
 #nav-bar ul {
     width: 1000px;
     padding-bottom: 0px;
-    text-decoration: none;
 }
 
 #nav-bar li {
     display: inline;
     margin-left: 100px;
+}
+
+#nav-bar li a {
     text-decoration: none;
 }
 
@@ -39,5 +41,14 @@ body {
 }
 
 #nav-bar a:hover {
-    color: pink;
+    color: gray;
+}
+
+div.black {
+    height: 452px;
+    width: 1111px;
+    background-color: black;
+    opacity: .3;
+    margin-left: 123px;
+    margin-top: 137px;
 }
