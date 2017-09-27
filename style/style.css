@@ -86,6 +86,15 @@ div.black {
     background-image: url("images/Paint.jpg");
 }
 
+.image {
+    margin-top: 138px;
+    margin-left: 50px;
+    float: left;
+    height: 250px;
+    width: 350px;
+    background-image: url("images/bg.jpg");
+}
+
 #education {
     margin: 0 auto;
     height: 637px;
