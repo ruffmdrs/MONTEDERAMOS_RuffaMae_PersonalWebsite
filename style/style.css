@@ -81,8 +81,20 @@ div.black {
 
 #about {
     margin: 0 auto;
-    height: 598px;
+    height: 637px;
     width: 1680px;
-    margin-top: 1px;
     background-image: url("images/Paint.jpg");
+}
+
+#education {
+    margin: 0 auto;
+    height: 637px;
+    width: 1680px;
+    background-color: white;
+}
+
+.top {
+    background-color: green;
+    height: 200px;
+    width: 1680px;
 }
