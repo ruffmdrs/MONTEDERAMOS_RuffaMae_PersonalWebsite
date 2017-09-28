@@ -95,6 +95,15 @@ div.black {
     background-image: url("images/bg.jpg");
 }
 
+.white {
+    margin-left: 243px;
+    margin-top: 50px;
+    height: 414px;
+    width: 1025px;
+    background-color: white;
+    opacity: .5;
+}
+
 #education {
     margin: 0 auto;
     height: 637px;
