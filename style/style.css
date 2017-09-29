@@ -45,7 +45,7 @@ body {
     color: gray;
 }
 
-div.black {
+.black {
     height: 414px;
     width: 1111px;
     background-color: black;
@@ -83,25 +83,35 @@ div.black {
     margin: 0 auto;
     height: 637px;
     width: 1369px;
-    background-image: url("images/Paint.jpg");
+    background-image: url("images/white.jpg");
+    background-color: white;
 }
 
 .image {
     margin-top: 138px;
-    margin-left: 50px;
+    margin-left: 111px;
     float: left;
     height: 250px;
     width: 350px;
     background-image: url("images/bg.jpg");
 }
 
-.white {
-    margin-left: 243px;
-    margin-top: 50px;
-    height: 414px;
-    width: 1025px;
-    background-color: white;
-    opacity: .5;
+.Mcontainer {
+    margin-top: -343px;
+    margin-left: 50px;
+    height: 520px;
+    width: 1200px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+    float: left;
+}
+
+.me {
+    margin-left: 100px;
+    font-size: 50px;
+    font-family: helvetica;
+    font-weight: bold;
 }
 
 #education {
