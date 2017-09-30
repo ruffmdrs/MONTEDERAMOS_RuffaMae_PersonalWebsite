@@ -91,15 +91,12 @@ body {
     margin-left: 515px;
     height: 520px;
     width: 737px;
-    border-width: 5px;
-    border-style: dashed;
-    border-color: black;
     float: left;
 }
 
 .image {
-    margin-top: -12px;
-    margin-left: -517px;
+    margin-top: 76px;
+    margin-left: -392px;
     height: 400px;
     float: left;
     width: 300px;
@@ -108,10 +105,17 @@ body {
 
 .me {
     margin-top: 10px;
-    margin-left: 100px;
+    margin-left: 107px;
     font-size: 80px;
     font-family: Plantagenet Cherokee Regular;
     font-weight: bold;
+}
+
+hr {
+    margin-left: 177px;
+    margin-top: -82px;
+    border-style: solid;
+    width: 200px;
 }
 
 #education {
