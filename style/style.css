@@ -83,34 +83,34 @@ body {
     margin: 0 auto;
     height: 637px;
     width: 1369px;
-    background-image: url("images/white.jpg");
     background-color: white;
 }
 
-.image {
-    margin-top: 138px;
-    margin-left: 111px;
-    float: left;
-    height: 250px;
-    width: 350px;
-    background-image: url("images/bg.jpg");
-}
-
 .Mcontainer {
-    margin-top: -343px;
-    margin-left: 50px;
+    margin-top: 32px;
+    margin-left: 515px;
     height: 520px;
-    width: 1200px;
+    width: 737px;
     border-width: 5px;
     border-style: dashed;
     border-color: black;
     float: left;
 }
 
+.image {
+    margin-top: -12px;
+    margin-left: -517px;
+    height: 400px;
+    float: left;
+    width: 300px;
+    background-image: url("images/ruff.jpg");
+}
+
 .me {
+    margin-top: 10px;
     margin-left: 100px;
-    font-size: 50px;
-    font-family: helvetica;
+    font-size: 80px;
+    font-family: Plantagenet Cherokee Regular;
     font-weight: bold;
 }
 
