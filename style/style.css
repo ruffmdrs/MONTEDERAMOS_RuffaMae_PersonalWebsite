@@ -6,8 +6,8 @@ body {
 #home {
     margin: 0 auto;
     width: 1369px;
-    height: 637;
-    background-image: url("images/Cute.jpg");
+    height: 637px;
+    background-image: url("images/sunset.jpg");
 }
 
 .nav-bar {
@@ -33,7 +33,7 @@ body {
 }
 
 .nav-bar li a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
@@ -42,16 +42,7 @@ body {
 }
 
 .nav-bar a:hover {
-    color: gray;
-}
-
-.black {
-    height: 414px;
-    width: 1111px;
-    background-color: black;
-    opacity: .5;
-    margin-left: 123px;
-    margin-top: 140px;
+    color: #CFCFCF;
 }
 
 .welcome {
