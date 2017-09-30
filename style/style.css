@@ -114,6 +114,12 @@ hr {
     width: 200px;
 }
 
+.content {
+    margin-top: 57px;
+    font-size: 17px;
+    font-family: Plantagenet Cherokee Regular;
+}
+
 #education {
     margin: 0 auto;
     height: 637px;
