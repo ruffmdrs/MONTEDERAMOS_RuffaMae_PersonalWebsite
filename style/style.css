@@ -148,7 +148,7 @@ hr {
 
 .contact {
     width: 1369px;
-    height: 103px;
+    height: 114px;
     background-color: #383838;
 }
 
@@ -191,5 +191,22 @@ hr {
     color: white;
     margin-top: -65px;
     margin-left: 433px;
+    float: left;
+}
+
+.insta {
+    background-image: url("images/insta.png");
+    height: 70px;
+    width: 70px;
+    margin-left: 549px;
+    margin-top: -79px;
+}
+
+.iname {
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: -65px;
+    margin-left: 630px;
     float: left;
 }
