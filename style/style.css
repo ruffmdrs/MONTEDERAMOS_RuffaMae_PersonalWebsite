@@ -148,7 +148,7 @@ hr {
 
 .contact {
     width: 1369px;
-    height: 111px;
+    height: 103px;
     background-color: #383838;
 }
 
@@ -161,7 +161,7 @@ hr {
 }
 
 .fb {
-    background-image: url(images/fb.png);
+    background-image: url("images/fb.png");
     height: 90px;
     width: 90px;
     margin-left: 100px;
@@ -174,5 +174,22 @@ hr {
     color: white;
     margin-top: -61px;
     margin-left: 188px;
+    float: left;
+}
+
+.twitter {
+    background-image: url("images/twitter.png");
+    height: 90px;
+    width: 90px;
+    margin-left: 348px;
+    margin-top: -86px;
+}
+
+.tname {
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: -65px;
+    margin-left: 433px;
     float: left;
 }
