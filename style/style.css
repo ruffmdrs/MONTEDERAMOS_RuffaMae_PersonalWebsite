@@ -60,7 +60,7 @@ body {
 }
 
 .personal {
-    font-size: 35px;
+    font-size: 25px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 577px;
@@ -115,7 +115,7 @@ hr {
 }
 
 .content {
-    margin-top: 57px;
+    margin-top: 90px;
     font-size: 20px;
     font-family: Plantagenet Cherokee Regular;
 }
@@ -143,6 +143,14 @@ hr {
 #contacts {
     margin: 0 auto;
     width: 1369px;
-    height: 150px;
+    height: 200px;
     background-color: #383838;
+}
+
+.con {
+    font-size: 64px;
+    color: white;
+    font-family: Freestyle Script Regular;
+    margin-left: 588px;
+    margin-top: 10px;
 }
