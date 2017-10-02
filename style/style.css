@@ -141,6 +141,7 @@ hr {
 }
 
 #contacts {
+    margin: 0 auto;
     width: 1369px;
     height: 150px;
     background-color: #383838;
