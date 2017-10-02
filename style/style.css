@@ -210,3 +210,20 @@ hr {
     margin-left: 630px;
     float: left;
 }
+
+.gmail {
+    background-image: url("images/gmail.png");
+    width: 70px;
+    height: 70px;
+    margin-left: 734px;
+    margin-top: -65px;
+}
+
+.gname {
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: -65px;
+    margin-left: 816px;
+    float: left;
+}
