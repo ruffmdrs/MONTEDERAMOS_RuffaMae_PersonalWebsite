@@ -143,7 +143,12 @@ hr {
 #contacts {
     margin: 0 auto;
     width: 1369px;
-    height: 200px;
+    height: 260px;
+}
+
+.contact {
+    width: 1369px;
+    height: 111px;
     background-color: #383838;
 }
 
@@ -153,4 +158,21 @@ hr {
     font-family: Freestyle Script Regular;
     margin-left: 588px;
     margin-top: 10px;
+}
+
+.fb {
+    background-image: url(images/fb.png);
+    height: 90px;
+    width: 90px;
+    margin-left: 100px;
+    margin-top: -49px;
+}
+
+.fname {
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: -61px;
+    margin-left: 188px;
+    float: left;
 }
