@@ -324,6 +324,51 @@ body {
     float: left;
 }
 
+.javamage {
+    height: 50px;
+    width: 50px;
+    margin-left: 30px;
+    margin-top: 58px;
+    background-image: url("images/java.png");
+}
+
+.javatxt {
+    font-size: 16px;
+    margin-left: 98px;
+    margin-top: -29px;
+    font-family: book antiqua;
+}
+
+.devmage {
+    height: 50px;
+    width: 50px;
+    margin-left: 30px;
+    margin-top: 39px;
+    background-image: url("images/dev.png");
+}
+
+.devtxt {
+    font-size: 16px;
+    margin-left: 98px;
+    margin-top: -29px;
+    font-family: book antiqua;
+}
+
+.markmage {
+    width: 60px;
+    height: 60px;
+    margin-left: 30px;
+    margin-top: 39px;
+    background-image: url("images/html-css.jpg");
+}
+
+.htmltxt {
+    font-size: 16px;
+    margin-left: 119px;
+    margin-top: -29px;
+    font-family: book antiqua;
+}
+
 .work {
     height: 485px;
     width: 300px;
