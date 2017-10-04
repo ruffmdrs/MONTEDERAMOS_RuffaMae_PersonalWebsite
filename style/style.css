@@ -174,7 +174,7 @@ body {
     font-size: 16px;
     font-family: calibri;
     font-weight: bold;
-    margin-left: 147px;
+    margin-left: 122px;
     margin-top: 20px;
     float: left;
 }
@@ -183,17 +183,53 @@ body {
     font-size: 22px;
     color: #28c994;
     margin-top: -2px;
-    margin-left: 131px;
+    margin-left: 42px;
     text-align: center;
     float: left;
 }
 
-.text {
+.elem {
     font-size: 16px;
     color: black;
     margin-top: -10px;
     margin-left: 37px;
     text-align: center;
+    float: left;
+    font-family: book antiqua;
+}
+
+.sec {
+    font-size: 22px;
+    color: #28c994;
+    margin-top: -2px;
+    margin-left: 42px;
+    text-align: center;
+    float: left;
+}
+
+.hs {
+    font-size: 16px;
+    color: black;
+    margin-top: -10px;
+    margin-left: 42px;
+    text-align: center;
+    float: left;
+    font-family: book antiqua;
+}
+
+.ter {
+    font-size: 22px;
+    color: #28c994;
+    margin-top: -2px;
+    margin-left: 42px;
+    float: left;
+}
+
+.col {
+    font-size: 16px;
+    color: black;
+    margin-top: -10px;
+    margin-left: 42px;
     float: left;
     font-family: book antiqua;
 }
@@ -211,7 +247,7 @@ body {
 .affmage {
     width: 110px;
     height: 110px;
-    margin-left: 109px;
+    margin-left: 95px;
     margin-top: 13px;
     background-image: url("images/affiliation.png");
 }
@@ -220,14 +256,14 @@ body {
     font-size: 16px;
     font-family: calibri;
     font-weight: bold;
-    margin-left: 133px;
+    margin-left: 115px;
     margin-top: 20px;
     float: left;
 }
 
 .grapmage {
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
     margin-left: 10px;
     margin-top: 60px;
     background-image: url("images/graphicon.jpg");
@@ -241,11 +277,18 @@ body {
 }
 
 .psits {
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
     margin-left: 10px;
     margin-top: 30px;
     background-image: url("images/psits.jpg");
+}
+
+.sits {
+    font-size: 16px;
+    margin-left: 98px;
+    margin-top: -38px;
+    font-family: book antiqua;
 }
 
 .skills {
