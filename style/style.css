@@ -198,11 +198,17 @@ body {
     font-family: book antiqua;
 }
 
+.year {
+    margin-top: -13px;
+    margin-left: 36px;
+    float: left;
+}
+
 .sec {
     font-size: 22px;
     color: #28c994;
-    margin-top: -2px;
-    margin-left: 42px;
+    margin-top: 15px;
+    margin-left: -82px;
     text-align: center;
     float: left;
 }
@@ -210,8 +216,8 @@ body {
 .hs {
     font-size: 16px;
     color: black;
-    margin-top: -10px;
-    margin-left: 42px;
+    margin-top: -14px;
+    margin-left: 34px;
     text-align: center;
     float: left;
     font-family: book antiqua;
@@ -220,16 +226,16 @@ body {
 .ter {
     font-size: 22px;
     color: #28c994;
-    margin-top: -2px;
-    margin-left: 42px;
+    margin-top: 15px;
+    margin-left: -82px;
     float: left;
 }
 
 .col {
     font-size: 16px;
     color: black;
-    margin-top: -10px;
-    margin-left: 42px;
+    margin-top: -14px;
+    margin-left: 34px;
     float: left;
     font-family: book antiqua;
 }
@@ -298,6 +304,23 @@ body {
     border-style: dashed;
     margin-top: 127px;
     margin-left: -214px;
+    float: left;
+}
+
+.skillmage {
+    height: 110px;
+    width: 110px;
+    margin-left: 92px;
+    margin-top: 13px;
+    background-image: url("images/skills.png");
+}
+
+.skill {
+    font-size: 16px;
+    font-family: calibri;
+    font-weight: bold;
+    margin-left: 132px;
+    margin-top: 20px;
     float: left;
 }
 
